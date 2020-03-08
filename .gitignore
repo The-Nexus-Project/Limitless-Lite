@@ -50,3 +50,7 @@ config/xaerominimap.txt
 config/trashslot-client.toml
 
 mods/
+
+TrashSlotSaveState.json
+
+reauth.toml
