@@ -15,6 +15,9 @@
 	"Warm-Up Delay" = 0
 	#Items to include for blocking. Intended for modded swords that don't extend vanilla swords. Format for every entry is "<namespace>:<id>".
 	"Blocking Inclusion List" = []
+	#Percentage to slow down movement to while blocking.
+	#Range: 0.0 ~ 3.4028234663852886E38
+	"Walking Modifier" = 0.2
 
 #Restores pre-combat update combat mechanics.
 [classic_combat]
@@ -24,8 +27,12 @@
 	"No Sweeping Particles" = false
 	#Don't automatically stop sprinting when attacking.
 	"Sprint While Attacking" = true
+	#Prevent attack indicator from showing regardless of what's been set in "Video Settings".
+	"Disable Attack Indicator" = false
 	#Is the sweeping edge enchantment required to perform a sweep attack.
 	"Require Sweeping Edge" = false
+	#Remove "Attack Speed" attribute from tooltips.
+	"No Attack Speed Tooltip" = true
 	#Completely remove the attack cooldown as if it never even existed in the first place.
 	"Remove Attack Cooldown" = false
 
@@ -44,17 +51,35 @@
 [modern_combat]
 	#Disables the default 0.5 second damage immunity when hit by a projectile. This makes it possible for entities to be hit by multiple projectiles at once, e. g. from a multishot enchanted crossbow.
 	"No Projectile Immunity" = true
+	#Make "Coyote Time" only work on small mobs.
+	"Coyote Small Mobs" = false
+	#Base attack damage of the player. Attack strength of weapons and tools is added on top.
+	#Range: 0.0 ~ 2048.0
+	"Fist Attack Strength" = 1.0
+	#Amount of ticks after which blocking using a shield is effective. Used to be 5 ticks before combat snapshots.
+	#Range: 0 ~ 72000
+	"Shield Warm-Up Delay" = 0
+	#Hold down the attack key to attack automatically whenever possible.
+	"Hold Attack Button" = false
+	#Ray tracing will no longer target entities that have already died.
+	"Hit Only Alive" = true
 	#Items to add a delay in ticks to after using. Doesn't override a delay an item has by default.
 	"Item Delay List" = ["minecraft:snowball,4", "minecraft:egg,4"]
 	#Makes the impaling enchantment apply when attack any creature in contact with rain or water; not just to aquatic mobs.
 	"Boost Impaling" = true
+	#Hit mobs through blocks without a collision shape such as grass without breaking the block.
+	"Swing Through Grass" = true
 	#Only damages axes by 1 durability instead of 2 when attacking so they properly be used as weapons.
 	"No Axe Attack Penalty" = true
 	#Allow tridents to be fired from dispensers.
 	"Dispense Tridents" = true
-	#Amount of ticks after which blocking using a shield is effective. Used to be 5 ticks before combat snapshots.
-	#Range: 0 ~ 72000
-	"Shield Warm-Up Delay" = 0
+	#Item projectiles like snowballs and ender pearls pass through blocks without a collision shape and deal knockback to players.
+	"Improve Item Projectiles" = true
+	#Improved arm swing animation to emphasize the rhythm of the attacks.
+	"Better Swing Animation" = false
+	#Amount of ticks a mob can still be interacted with after no longer aiming at it.
+	#Range: > 0
+	"Coyote Time" = 0
 
 #Changes the way the player heals from food.
 [food_buffs]

@@ -1,7 +1,7 @@
 
 ["custom text"]
 	#Insert the custom title screen text you want here (supports multiple lines)
-	text = ["§eTNP Limitless §6§l§oLite", "§6Version: §e§o1.00", "§7Minecraft 1.15.2"]
+	text = ["§eTNP Limitless §6§l§oLite", "§6Version: §e§o1.01", "§7Minecraft 1.15.2"]
 
 [versions]
 	#Show how many mods are loaded.

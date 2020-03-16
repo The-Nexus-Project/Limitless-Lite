@@ -18,7 +18,7 @@
 		#This option will hide your offhand item. It can be toggled via an optional key binding.
 		hideOffhandItem = false
 		#This option will hide your own potion particle effects for your client (other players will still see them).
-		hideOwnParticleEffects = false
+		hideOwnParticleEffects = true
 		#This adds back the master volume slider to the options screen. Saves you a click!
 		masterVolumeSlider = true
 		#This adds back the music volume slider to the options screen. Saves you a click!
