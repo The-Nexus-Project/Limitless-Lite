@@ -19,7 +19,7 @@
 - [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) (**Broke the vanilla portal long travel transportation system.**)
 - [Torch Slabs Mod](https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod) (**Note that some torches in your world might be removed!**)
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (**FPS Drop issues, replaced by Journey Map.**)
-- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (**Replaced by Journey Map, press 'J' in-game. **)
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (**Replaced by Journey Map, press 'J' in-game.**)
 - [Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment) (**Caused some minor issues.**)
 
 
