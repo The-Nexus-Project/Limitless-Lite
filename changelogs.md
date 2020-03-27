@@ -1,3 +1,43 @@
+<h1>v1.02</h1>
+
+**Biome Update!**
+
+**Note that some torches in your world might be removed this update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [Traverse](https://www.curseforge.com/minecraft/mc-mods/traverse-legacy-continued) (+ [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib) )
+
+
+**Removed**
+- [Pretty Beaches](https://www.curseforge.com/minecraft/mc-mods/pretty-beaches) (**Broke some stuff.**)
+- [Cull Particles](https://www.curseforge.com/minecraft/mc-mods/cull-particles) (**Already available.**)
+- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) (**Available in SwordBlockingCombat mod.**)
+- [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) (**Broke the vanilla portal long travel transportation system.**)
+- [Torch Slabs Mod](https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod) (**Note that some torches in your world might be removed!**)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (**FPS Drop issues, replaced by Journey Map.**)
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (**Replaced by Journey Map, press 'J' in-game. **)
+- [Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment) (**Caused some minor issues.**)
+
+
+**Changes**
+- New biomes added, existing worlds are still compatible. Explore to find newly added biomes. (**Traverse.**)
+- Minor changes within mod updates.
+
+
+**Fixes**
+- Fixed intensive FPS drops being present while walking around the world. (**Fixed by removing Xaero's Minimap.**)
+- Enabled Auto Climb Ladders, just look up and you'll climb! (**ClientTweaks.**)
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to Version 31.1.27!
+- Any mod that had an update available, that also didn't break things.
+
 ---------------
 
 <h1>v1.01</h1>
