@@ -1,3 +1,30 @@
+<h1>v1.03</h1>
+
+**Quark Update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ( + [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) )
+
+
+**Removed**
+- [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) (**Now available in Quark.**)
+- [Searchable Chests](https://www.curseforge.com/minecraft/mc-mods/searchable-chests) (**Now available in Quark, button top right in any container.**)
+
+
+**Changes**
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) has been added.
+- Removed some mods that is already included within [Quark](https://www.curseforge.com/minecraft/mc-mods/quark).
+- Pre-configured Quark.
+
+
+**Updated**
+- No mods updated.
+
+---------------
+
 <h1>v1.02</h1>
 
 **Biome Update!**
