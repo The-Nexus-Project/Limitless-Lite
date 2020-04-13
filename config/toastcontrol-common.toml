@@ -8,7 +8,7 @@
 
 	[client.blocked_toasts]
 		#If recipe toasts are blocked.
-		recipes = false
+		recipes = true
 		#If all vanilla toasts are blocked.
 		global_vanilla = false
 		#If advancement toasts are blocked.
