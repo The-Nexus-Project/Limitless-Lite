@@ -8,7 +8,7 @@
 
 
 **Removed**
-- [InvTweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/it-reborn) (**Removed from CurseForge!**) (**Will be re-added if available on CurseForge again.**)
+- [InvTweaksReborn](https://www.curseforge.com/minecraft/mc-mods/it-reborn) (**Removed from CurseForge!**) (**Will be re-added if available on CurseForge again.**)
 
 
 **Changes**
