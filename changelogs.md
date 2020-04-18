@@ -1,3 +1,25 @@
+<h1>v1.03.1</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [FTB Backups](https://jenkins.latmod.com/downloadlinks/)
+
+
+**Removed**
+- [InvTweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/it-reborn) (**Removed from CurseForge!**) (**Will be re-added if available on CurseForge again.**)
+
+
+**Changes**
+- Minor changes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.03</h1>
 
 **Quark Update!**
