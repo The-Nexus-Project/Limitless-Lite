@@ -12,6 +12,7 @@
 
 
 **Changes**
+- Enabled Quark's Inventory Sorting temporarily. (**Button top right over inventory slots. Or any other container.**)
 - Minor changes within mod updates.
 
 
