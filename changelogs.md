@@ -1,3 +1,30 @@
+<h1>v1.03.2</h1>
+
+**Minor update, mods updated. A single mod added, a single mod removed.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+
+
+**Removed**
+- [Equipment Tooltips](https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips)
+
+
+**Changes**
+- Lowered Sword Blocking parry window, 20 -> 11. (**SwordBlockingCombat.**)
+- Enabled Improved Attribute tooltips. (**Quark.**)
+- Minor changes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 31.1.63!
+
+---------------
+
 <h1>v1.03.1</h1>
 
 **Always remember to backup your world(s) before updating!**
