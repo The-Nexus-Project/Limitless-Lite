@@ -20,7 +20,7 @@
 
 **Updated**
 - Any mod that had an update available, that also didn't break things.
-- Updated Forge to Version 31.1.89!
+- Updated Forge to Version 31.2.0!
 
 ---------------
 
