@@ -1,3 +1,31 @@
+<h1>v1.04</h1>
+
+**This update brings some mod updates and replaces the current Minimap mod. Be sure to backup your waypoints!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Inventory Tweakes Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+
+**Removed**
+- [Journey's Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) (**Performance Issues!**)
+
+
+**Changes**
+- Disabled Quark's Sort Inv Button as InvTweaks Mod is back. (**Default Button: Middle Mouse**)
+- Minor changes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 31.2.9!
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.03.3</h1>
 
 **Minor update, some mods updated. A single mod added.**
