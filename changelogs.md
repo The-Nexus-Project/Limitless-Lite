@@ -1,3 +1,29 @@
+<h1>v1.05</h1>
+
+**This update brings some mod updates!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods.
+
+
+**Removed**
+- No mods.
+
+
+**Changes**
+- Updated the 'Need a Server?' button in the Main Menu.
+- Minor changes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 31.2.28!
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.04</h1>
 
 **This update brings some mod updates and replaces the current Minimap mod. Be sure to backup your waypoints!**
