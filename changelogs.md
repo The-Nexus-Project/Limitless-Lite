@@ -1,3 +1,32 @@
+<h1>v1.06</h1>
+
+**This update brings some mod updates!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
+
+
+**Removed**
+- [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
+
+
+**Changes**
+- Minor changes within mod updates.
+
+
+**Fixed**
+- Fixed an issue where excess ores that had no use were generating in the worlds. (**JANOEO Config Reset.**)
+
+
+**Updated**
+- Updated Forge to version 31.2.31!
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.05</h1>
 
 **This update brings some mod updates!**
