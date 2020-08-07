@@ -1,3 +1,51 @@
+<h1>v1.07</h1>
+
+**Last update for 1.15.2, next main update will be for 1.16.2!**
+
+**The One Probe has been swapped out for HWYLA this update due to some issues.**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
+- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu)
+- [Hwyla](https://minecraft.curseforge.com/projects/hwyla)
+- [More Overlays](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+- [TipTheScales](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
+- [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)
+
+
+**Removed**
+- [Better Title Screen](https://www.curseforge.com/minecraft/mc-mods/better-title-screen)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+- [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
+- [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu)
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+
+
+**Changes**
+- The 'Simple Farming' advancement when picking up a seed is now hidden.
+- Reworked the Main Menu to work with Fancy Menu.
+- Added a Discord button to Main Menu. (**Invite to the TNP Discord.**)
+- The Loading screen is now dark themed.
+- Players are now shown as Player Heads on the Minimap.
+- Enabled Variant Animal Textures. (**Quark.**)
+- Turned off 'Other Entities' in Entity Radar. (**Xaero's Minimap.**)
+- Minor changes within mod updates.
+
+
+**Fixed**
+- Fixed player rotation being reset when looking at another player.
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- Updated Forge to version 31.2.36
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.06</h1>
 
 **This update brings some mod updates!**
