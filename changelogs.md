@@ -5,7 +5,7 @@
 **Worlds from 1.15.2 are not compatible.**
 
 **Added**
-- Lots of mods removed.
+- Lots of mods added.
 
 **Removed**
 - Lots of mods removed.
