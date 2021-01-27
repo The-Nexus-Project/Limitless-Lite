@@ -1,25 +1,28 @@
-<h1>v2.0.0</h1>
+<h1>v2.0.0 / 2.0.0a</h1>
 
 **Pack has been updated to MC 1.16.5 and the pack has gone through a "rework". Meaning..**
 
 **Worlds from 1.15.2 are not compatible.**
 
+**Updated from 2.0.0? Everything is still compatible, they're the exact same.**
+
 **Added**
-- Lots of mods added.
+- Lots of mods added. (v2.0.0)
 
 **Removed**
-- Lots of mods removed.
+- Lots of mods removed. (v2.0.0)
 
 **Changes**
-- Way too many to note down.
+- Added a TNP Limitless Lite server to the server list. (Hosted by: TeuFox.)  (v2.0.0a)
+- Way too many to note down. (v2.0.0)
 
 **Fixes**
-- Too many to note down.
+- Too many to note down. (v2.0.0)
 
 **Updated**
-- Updated to Minecraft to 1.16.5
-- Updated Forge to version 36.0.1
-- Any mod that had an update available
+- Updated to Minecraft to 1.16.5 (v2.0.0)
+- Updated Forge to version 36.0.1 (v2.0.0)
+- Any mod that had an update available (v2.0.0)
 
 **Reporting Issues**
 - Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
