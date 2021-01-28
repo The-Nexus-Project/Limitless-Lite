@@ -1,3 +1,49 @@
+<h1>v2.0.1</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
+- [VanillaTweaks](https://www.curseforge.com/minecraft/mc-mods/vanillatweaks)
+- [Vein Mining (Enchantment)](https://www.curseforge.com/minecraft/mc-mods/vein-mining)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- The **Vein Mining Enchantment** can only be used to harvest **Ores**, **Logs** & **Leaves**.
+- Disabled **Variant16x** Wool Buttons.
+- Lowered droprate% for **Sinew** from **Silent Gear**.
+- Some small changes in mod updates.
+
+
+**Fixes**
+- Fixed quest reward for the **Sweet Dreams** quest.
+- Fixed being unable to convert Wool to 4x String.
+- Some fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to version **36.0.9**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.0.0 / 2.0.0a</h1>
 
 **Pack has been updated to MC 1.16.5 and the pack has gone through a "rework". Meaning..**
