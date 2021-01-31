@@ -22,7 +22,6 @@
 - [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 - [Mystical Machinery](https://www.curseforge.com/minecraft/mc-mods/mystical-machinery)
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
-- [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold)
 - [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear)
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 - [TaffyJump](https://www.curseforge.com/minecraft/mc-mods/taffyjump)
