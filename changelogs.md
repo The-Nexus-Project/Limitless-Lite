@@ -1,3 +1,73 @@
+<h1>v2.0.2</h1>
+
+**New neat mods added (+ more!)**
+
+**Note, The Main Ore Generation has been swapped out for Immersive Engineering, don't worry though. Worlds are still compatible. New chunks contain new ores!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Artifacts](curseforge.com/minecraft/mc-mods/artifacts)
+- [BWNCR](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
+- [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful) (+ [Kotlin](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge))
+- [Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
+- [Charm](https://www.curseforge.com/minecraft/mc-mods/charm-reforged)
+- [Champions](https://www.curseforge.com/minecraft/mc-mods/champions)
+- [Brazier](https://www.curseforge.com/minecraft/mc-mods/brazier)
+- [Engineer's Tools](https://www.curseforge.com/minecraft/mc-mods/engineers-tools)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+- [Inspirations](https://www.curseforge.com/minecraft/mc-mods/inspirations) (+ [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle))
+- [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
+- [Mystical Machinery](https://www.curseforge.com/minecraft/mc-mods/mystical-machinery)
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold)
+- [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear)
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+- [TaffyJump](https://www.curseforge.com/minecraft/mc-mods/taffyjump)
+- [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added a **JEI Information Page** to most ores describing what **Y Levels** they roughly generate on.
+- Added a conversion recipe for the normal vanilla chest.
+- Added a conversion recipe for the normal vanilla barrel.
+- The **Main Menu** buttons are now more orange in color.
+- The **Potion Hud** is now half transparent.
+- Made the advancement **Vanilla Tweaks** silent.
+- Some new wildlife.
+- Plus some small changes in mod updates.
+
+
+**Fixes**
+- Fixed quest reward for the **Who is Cutting Onions** quest.
+- And some fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to version **36.0.13**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.0.1</h1>
 
 **Always remember to backup your world(s) before updating!**
