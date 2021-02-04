@@ -1,3 +1,63 @@
+<h1>v2.0.3</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+- [Crash Utilities](https://www.curseforge.com/minecraft/mc-mods/crash-utilities)
+- [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
+- [Faster Ladder Climbing](https://www.curseforge.com/minecraft/mc-mods/faster-ladder-climbing)
+- [Go Prone](https://www.curseforge.com/minecraft/mc-mods/goprone)
+- [GravelMiner](https://www.curseforge.com/minecraft/mc-mods/gravelminer)
+- [FTB Ranks](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks)
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
+- [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold)
+- [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
+- [Towers Of The Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Lowered delay in seconds prior to when a teleport happens, from 5s -> 3s.
+- Command cooldown timer has been cut in half.
+- Added some **Crimson Dust** recipes.
+- Some minor changes in mod updates.
+
+
+**Fixes**
+- Fixed a recipe conflict with **Iron Rod**.
+- Fixed recipe conflicts with some **Beams**.
+- Fixed recipe conflicts with some **Palisades**.
+- Fixed **Window Title** not displaying correctly.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Added a new Quest Chapter: **DruidCraft**!
+- Updated some Quest Icons.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.0.2</h1>
 
 **New neat mods added (+ more!)**
