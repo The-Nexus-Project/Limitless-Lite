@@ -1,3 +1,53 @@
+<h1>v2.0.4</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [BlockCarpentry](https://www.curseforge.com/minecraft/mc-mods/blockcarpentry)
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
+- [Chocolate Fix](https://www.curseforge.com/minecraft/mc-mods/chocolate-fix)
+- [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+- [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
+- [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **Foul Berries** to the tag **forge:fruits**.
+- Added some **Azure Silver Dust** recipes/uses.
+- Added some **Zinc Dust** recipes/uses.
+- The **Rainbow Furnace** is now a little bit faster.
+- Torches from **Druidcraft** can now be placed in the ceiling.
+- Some minor changes in mod updates.
+
+
+**Fixes**
+- Fixed Overworld, End & Nether Biomes spawning in incorrect dimensions. (**Hopefully.**)
+- Some fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to version **36.0.18**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.0.3</h1>
 
 **Always remember to backup your world(s) before updating!**
