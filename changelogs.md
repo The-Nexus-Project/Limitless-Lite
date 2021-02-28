@@ -4,7 +4,7 @@
 
 
 **Added**
-- [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric
+- [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)
 - [Balanced Enchanting](https://www.curseforge.com/minecraft/mc-mods/balanced-enchanting)
 - [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books)
 - [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees)
