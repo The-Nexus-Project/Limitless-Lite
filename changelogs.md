@@ -1,3 +1,58 @@
+<h1>v2.0.6</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Bayou Blues](https://www.curseforge.com/minecraft/mc-mods/bayou-blues)
+- [Chiseled](https://www.curseforge.com/minecraft/mc-mods/chiseled) (+ [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm))
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
+- [Dark Paintings](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)
+- [JEI Professions](https://www.curseforge.com/minecraft/mc-mods/jei-professions)
+- [Nicephore](https://www.curseforge.com/minecraft/mc-mods/nicephore)
+- [Project: Vibrant Journeys](https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added "**Mods**", "**Issue Tracker**" & "**Changelogs**" buttons to the in-game **Pause Menu**.
+- Some new animals have been added. (**Alex's Mobs**.) (**See** [**here**](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3245951).)
+- The Color of the **Modpack Loading Bar** has been changed to better fit the **LL Lite Color Theme**.
+- The **Vein Mining** Enchantment is now set to **Key Binding** by default. (**Grave Key**.)
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed Main Menu Button Hover Texture.
+- Some fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to version **36.1.2**
+- All mods that could be updated have been updated.
+
+
+**Quests**
+- Changed the **Welcome Quest** reward to a **Wooden Sword**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.0.5</h1>
 
 **Always remember to backup your world(s) before updating!**
