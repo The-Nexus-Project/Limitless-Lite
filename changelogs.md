@@ -1,3 +1,59 @@
+<h1>v2.1.0</h1>
+
+**Tinkers Construct, Macaw's Mods Series, Farmer's Delight, Twilight Forest & Mod Updates!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Charmonium Reforged](https://www.curseforge.com/minecraft/mc-mods/charmonium-reforged)
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
+- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+- [Macaw's Fences & Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+- [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+- [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+- [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Quark O' Plenty](https://www.curseforge.com/minecraft/mc-mods/quark-o-plenty)
+- [Reload Audio Driver (RAD)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)
+- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+- [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+
+
+**Removed**
+- [Performant](https://www.curseforge.com/minecraft/mc-mods/performant)
+
+
+**Changes**
+- New atmospheric biome sounds & cave sounds. (**Can be turned off in Audio Settings or Configs!**)
+- Added all **Saplings** from **Quark**, **Atmospheric**, **Druidcraft**, **SilentGear** & **Upgrade Aquatic** to the **Market, (Farming for Blockheads)**.
+- Changed the Minimap style.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Lots of fixes in mod updates.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.0.6</h1>
 
 **Always remember to backup your world(s) before updating!**
