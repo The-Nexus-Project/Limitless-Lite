@@ -1,6 +1,6 @@
 <h1>v2.1.1</h1>
 
-**Smaller update, updates all mods to their latest versions + 2 mod added, 3 mods removed.**
+**Smaller update, updates all mods to their latest versions + 2 mods added, 3 mods removed.**
 
 **Always remember to backup your world(s) before updating!**
 
