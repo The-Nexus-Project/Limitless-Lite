@@ -1,16 +1,17 @@
 <h1>v2.1.1</h1>
 
-**Minor update, updates all mods to their latest versions + 1 mod removal.**.
+**Smaller update, updates all mods to their latest versions + 1 mod added, 1 mod removed.**.
 
 **Always remember to backup your world(s) before updating!**
 
 
 **Added**
-- No mods added.
+- [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
 
 
 **Removed**
 - [Balanced Enchanting](https://www.curseforge.com/minecraft/mc-mods/balanced-enchanting) (**Removed due to easy Experience Duping.**)
+- [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
 
 
 **Changes**
