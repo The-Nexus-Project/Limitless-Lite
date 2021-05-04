@@ -10,6 +10,7 @@
 
 
 **Removed**
+- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 - [Balanced Enchanting](https://www.curseforge.com/minecraft/mc-mods/balanced-enchanting) (**Removed due to easy Experience Duping.**)
 - [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
 
