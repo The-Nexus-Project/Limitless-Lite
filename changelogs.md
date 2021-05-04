@@ -16,6 +16,9 @@
 
 **Changes**
 - Some new mobs added. (See [here](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3297742).)
+- Added a new item: **Baked Apple**.
+- Added a new item: **Golden Melon Slice**.
+- Added a new item: **Golden Berries**.
 - Some changes in mod updates.
 
 
