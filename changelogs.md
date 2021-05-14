@@ -1,3 +1,58 @@
+<h1>v2.1.2</h1>
+
+**Mod Additions, Mod Updates + More!**
+
+**Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside the /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
+- [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
+- [EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+- [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
+- [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
+- [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
+- [Plonk](https://www.curseforge.com/minecraft/mc-mods/plonk)
+- [SmoothFocus](https://www.curseforge.com/minecraft/mc-mods/smoothfocus) (**A configurable zoom mod!) (X button by default.**)
+
+
+**Removed**
+- [BlockCarpentry](https://www.curseforge.com/minecraft/mc-mods/blockcarpentry)
+
+
+**Changes**
+- The number of world **Backups** to keep has been increased from **4** to **6**.
+- You can now place **items/blocks** onto walls, ceilings & on the ground. (**Default keybind is 'P'.**)
+- Disabled the **Uncrafting Table**, (**removed the recipe). (Duping issues.**)
+- You can now claim chunks in **The End** dimension.
+- Made **Ladder Climbing** a little bit slower.
+
+
+**Fixes**
+- Fixed not being able to "**right-click to add**" stuff into **Shulker Boxes** & **Seed Pouches** etc. (**Quark Tweak.**)
+- Fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to version **36.1.18**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.1.1</h1>
 
 **Smaller update, updates all mods to their latest versions + 2 mods added, 3 mods removed.**
