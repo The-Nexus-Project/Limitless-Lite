@@ -1,3 +1,67 @@
+<h1>v2.1.3</h1>
+
+**Lootr, Better Caves, New Animals + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Enchanted Book Redesign](https://www.curseforge.com/minecraft/mc-mods/enchanted-book-redesign)
+- [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
+- [Furnace Mk2](https://www.curseforge.com/minecraft/mc-mods/furnace-mk2)
+- [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
+- [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+- [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
+- [Pane In The Glass](https://www.curseforge.com/minecraft/mc-mods/pane-in-the-glass)
+- [Ravage & Cabbage](https://www.curseforge.com/minecraft/mc-mods/ravage-and-cabbage)
+- [Stoneholm](https://www.curseforge.com/minecraft/mc-mods/stoneholm-forge)
+- [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
+- [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extra)
+
+
+**Removed**
+- [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+- [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books) (**Will be re-added in a future update!**)
+
+
+**Changes**
+- Added a **Discord** button to the **Main Menu**.
+- Enabled **"hideOwnParticleEffects"** in the **ClientTweaks** mod.
+- Updated some **button textures**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed the red "**Mismatched Mod Channel List - [X]**" that was displayed if a Limitless 3 server was added to the **Multiplayer List.**
+- World will no longer render chunks invisible when Zooming out with **SmoothFocus**. (See [here](https://www.curseforge.com/minecraft/mc-mods/smoothfocus/files/3327616))
+
+
+**Quests**
+- Made **9 quests** in the **Welcome Chapter** optional.
+- Changed reward for the **Sound Muffling** quest.
+- Minor changes.
+
+
+**Updated**
+- Updated **Forge** to version **36.1.25**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.1.2</h1>
 
 **Mod Additions, Mod Updates + More!**
