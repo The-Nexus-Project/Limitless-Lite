@@ -27,6 +27,7 @@
 
 
 **Removed**
+- [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch)
 - [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station) (**Included in TConstruct.**)
 - [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
 - [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold) (**Included in Better Strongholds**.)
