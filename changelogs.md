@@ -1,3 +1,76 @@
+<h1>v2.2.0</h1>
+
+**NOTE! Terraforged is removed this update, if your world is that world-type it'll break!**
+
+**It's also possible that this will create worldgen walls in regular worlds, nothing breaking though.**
+
+**In this update worlds from previous versions might get your quests, chunk claims etc reset.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Armor Sound Tweak](https://www.curseforge.com/minecraft/mc-mods/armor-sound-tweak)
+- [Authentic Shadows](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows) (**RESOURCE PACK**.)
+- [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
+- [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+- [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (**New Create Dependency.**)
+- [Item Stitching Fix](https://www.curseforge.com/minecraft/mc-mods/item-stitching-fix)
+- [JER Integration](https://www.curseforge.com/minecraft/mc-mods/jer-integration)
+- [Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+- [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers)
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships)
+- [Sound Device Options](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
+- [Untitled Duck Mod](https://www.curseforge.com/minecraft/mc-mods/untitled-duck-mod-forge)
+- [Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering) (**RESOURCE PACK**.)
+- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+
+
+**Removed**
+- [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station) (**Included in TConstruct.**)
+- [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
+- [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold) (**Included in Better Strongholds**.)
+- [Towers Of The Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
+
+
+**Changes**
+- Added a new item: **Limitless Sword**. (**Not Craftable. Used in the Welcome Quest kit.**)
+- Adjusted the pack loading up screen colors a bit.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed multiple instances where crops etc wouldn't grow when the chunks were forceloaded. (**Chunk Loaded**.)
+- Fixes in mod updates.
+
+
+**Quests**
+- Note! Quests completed from previous worlds might get reset this update.
+- Minor changes.
+
+
+**Updated**
+- Updated **Forge** to version **36.2.2**.
+- All mods that could be updated have been updated.
+
+
+**Note!**
+- You'll notice that there's a red '**X**' when a server is added to the **Multiplayer List**. Don't worry about it! You can join anyways.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.1.3</h1>
 
 **Lootr, Better Caves, New Animals + More!**
