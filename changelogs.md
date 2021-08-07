@@ -31,6 +31,7 @@
 - [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station) (**Included in TConstruct.**)
 - [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
 - [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold) (**Included in Better Strongholds**.)
+- [Terraforged](https://www.curseforge.com/minecraft/mc-mods/terraforged)
 - [Towers Of The Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
 
 
