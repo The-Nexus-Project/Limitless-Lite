@@ -1,3 +1,61 @@
+<h1>v2.3.0</h1>
+
+**Warning! Minimap mod has been changed. Please back up your waypoints etc before updating!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch)
+- [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
+- [My Server Is Compatible](https://www.curseforge.com/minecraft/mc-mods/my-server-is-compatible)
+- [Roadrunner](https://www.curseforge.com/minecraft/mc-mods/roadrunner)
+- [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+
+
+**Removed**
+- [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
+- [Quark O' Plenty](https://www.curseforge.com/minecraft/mc-mods/quark-o-plenty)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+
+**Changes**
+- The **FML** compatible server icon has been **removed** to avoid **confusion** if server is **compatible**.
+- The Backpack from **@Backpacked** is now opened on **N**, by default.
+- Claimed chunks in (**FTB Chunks**) are now shown on the **minimap**.
+- New pack **loading/reloading** screen.
+- Increased server performance.
+- Changes in mod updates.
+
+
+**Fixes**
+- Many fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to version **36.2.9**
+- All mods that could be updated have been updated.
+
+
+**Note!**
+- You'll notice that there's a red '**X**' when a server is added to the **Multiplayer List**. Don't worry about it! You can join anyways.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.2.0</h1>
 
 **NOTE! Terraforged is removed this update, if your world is that world-type it'll break!**
