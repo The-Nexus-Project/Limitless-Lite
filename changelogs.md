@@ -39,10 +39,6 @@
 - All mods that could be updated have been updated.
 
 
-**Note!**
-- You'll notice that there's a red '**X**' when a server is added to the **Multiplayer List**. Don't worry about it! You can join anyways.
-
-
 **Reporting Issues**
 - Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Lite/issues) !
 
